@@ -1,0 +1,42 @@
+#contenedor {
+	width: 960px;
+	height: 1380px;
+	margin: 0 auto;
+	position: relative;
+}
+#texto {
+	width: 540px;
+	height: 270px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#mapa {
+	width: 380px;
+	height: 270px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+#bloque1 {
+	width: 940px;
+	height: 120px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#bloque2 {
+	width: 460px;
+	height: 400px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#bloque3 {
+	width: 460px;
+	height: 400px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
