@@ -1,11 +1,8 @@
 /*Inicializar los estilos*/
 
-
-
-
 #contenedor {
 	width: 960px;
-	/*height: 1080px;*/
+	height: 1500px;
 	background-color: #D8D8D8;
 	margin: 0 auto;
 	position: relative;
@@ -13,14 +10,14 @@
 #mayor {
 	width: 540px;
 	height: 600px;
-	/*background-color: #F16D32;*/
+	background-color: #F16D32;
 	float: left;
 	margin-left: 10px;
 }
 #menor {
 	width: 380px;
-	height: 600px;
-	/*background-color: #007D9A;*/
+	height: auto;
+	background-color: #007D9A;
 	float: left;
 	margin-left: 20px;
 }
@@ -33,15 +30,15 @@
 
 /*Estilos de Tipo CLASS*/
 
-.rodeatexto1{
-			float: left;
-			margin-right:10px;
-			box-shadow: 3px 3px 6px #888888;
-			border-width:5px;
-			border-style:solid;
-			border-color:#FFFFFF;
-			 }
+.rodeatexto1 {
+	float: left;
+	margin-right: 10px;
+	box-shadow: 3px 3px 6px #888888;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+}
 
-.textoespacio{
+.textoespacio {
 	margin-bottom: 15px;
 }
