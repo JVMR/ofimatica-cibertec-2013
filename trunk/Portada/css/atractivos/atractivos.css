@@ -1,3 +1,6 @@
+/*Inicializar los estilos*/
+
+
 
 
 #contenedor {
@@ -7,37 +10,38 @@
 	margin: 0 auto;
 	position: relative;
 }
-
-
-#mayor{
+#mayor {
 	width: 540px;
 	height: 600px;
-	background-color:#F16D32;
+	/*background-color: #F16D32;*/
 	float: left;
 	margin-left: 10px;
-	
 }
-
-#menor{
-    width: 380px;
-    height: 600px;
-    background-color:#007D9A;
-    float: left;
-    margin-left: 20px;
-	
+#menor {
+	width: 380px;
+	height: 600px;
+	/*background-color: #007D9A;*/
+	float: left;
+	margin-left: 20px;
 }
-
-
-#foto{
-	background-color:#007D9A;
+#foto {
+	background-color: #007D9A;
 	width: 540px;
 	height: 300px;
-	
 }
- /*Estilos de tipo Etiqueta*/
-
-
+/*Estilos de tipo Etiqueta*/
 
 /*Estilos de Tipo CLASS*/
-	
 
+.rodeatexto1{
+			float: left;
+			margin-right:10px;
+			box-shadow: 3px 3px 6px #888888;
+			border-width:5px;
+			border-style:solid;
+			border-color:#FFFFFF;
+			 }
+
+.textoespacio{
+	margin-bottom: 15px;
+}
