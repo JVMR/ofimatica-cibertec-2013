@@ -1,0 +1,79 @@
+
+
+/*ESTILO TIPO ID*/
+#contenedor {
+	width: 960px;
+	height: 1800px;
+	background-color: #D8D8D8;
+	margin: 0 auto;
+	position: relative;
+}
+ 
+ #fotomayor{
+ 	width: 700px;
+ 	height: 450px;
+ 	background-color: #008000;
+ 	float: left;
+ 	margin-left: 120px;
+ 	margin-bottom: 10px;
+ }
+ 
+ #descrip{
+ 	width: 620px;
+ 	height: 200px;
+ 	background-color: #00B29E;
+ 	float: left;
+ 	margin-left: 10px;
+ 	margin-bottom: 10px;
+ }
+ 
+ #peque{
+ 	width: 300px;
+ 	height: 200px;
+ 	background-color: #0062F4;
+ 	float: left;
+ 	margin-left: 20px;
+ 	margin-bottom: 10px;
+ 	 }
+ #block1{
+ 	width: 300px;
+ 	height: 400px;
+ 	float: left;
+ 	margin-left: 10px;
+ 	background-color: #4A6B98;
+ }
+ 
+  #block2{
+ 	width: 300px;
+ 	height: 400px;
+ 	float: left;
+ 	margin-left: 20px;
+ 	background-color: #B23700;
+ }
+  #block3{
+ 	width: 300px;
+ 	height: 400px;
+ 	float: left;
+ 	margin-left: 20px;
+ 	background-color: #FF0000;
+ 	margin-bottom: 10px;
+ }
+ #largo{
+ 	width: 940px;
+ 	height: 100px;
+ 	float: left;
+ 	margin-left: 10px;
+ 	background-color: #B23700;
+ 	
+ }
+ 
+ 
+ 
+ 
+
+
+/*ESTILOS TIPO CLASS*/
+
+.parah1{
+	margin: 10px;
+}
