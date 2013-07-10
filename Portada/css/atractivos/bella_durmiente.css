@@ -3,11 +3,20 @@
 /*ESTILO TIPO ID*/
 #contenedor {
 	width: 960px;
-	height: 1800px;
+	height: 1450px;
 	background-color: #D8D8D8;
 	margin: 0 auto;
 	position: relative;
 }
+ 
+ #titulo{
+ 	width: 300px;
+ 	height: 50px;
+ 	background-color: #00B29E;
+ 	float:left;
+ 	margin-left: 10px; 
+ 	margin-bottom: 10px;
+ }
  
  #fotomayor{
  	width: 700px;
@@ -36,36 +45,22 @@
  	margin-bottom: 10px;
  	 }
  #block1{
- 	width: 300px;
- 	height: 320px;
+ 	width: 460px;
+ 	height: 280px;
  	float: left;
  	margin-left: 10px;
  	background-color: #4A6B98;
  }
  
   #block2{
- 	width: 300px;
- 	height: 320px;
+ 	width: 460px;
+ 	height: 280px;
  	float: left;
  	margin-left: 20px;
  	background-color: #B23700;
  }
-  #block3{
- 	width: 300px;
- 	height: 320px;
- 	float: left;
- 	margin-left: 20px;
- 	background-color: #FF0000;
- 	margin-bottom: 10px;
- }
- #largo{
- 	width: 940px;
- 	height: 100px;
- 	float: left;
- 	margin-left: 10px;
- 	background-color: #B23700;
- 	
- }
+  
+
  
  
  
@@ -74,6 +69,22 @@
 
 /*ESTILOS TIPO CLASS*/
 
-.parah1{
-	margin: 10px;
+
+
+
+.textoespacio3{
+	margin-top: 20px;
 }
+
+.textoespacio4{
+	margin-bottom:0px;
+}
+
+.textoespacio5{
+	margin-top: 20px;
+}
+
+
+
+
+
