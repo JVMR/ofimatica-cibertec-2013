@@ -1,7 +1,7 @@
 /*ESTILOS ID*/
 #contenedor {
 	width: 960px;
-	height: 1500px;
+	height: 1700px;
 	background-color: #D8D8D8;
 	margin: 0 auto;
 	position: relative;
@@ -50,6 +50,7 @@
  	height: 350px;
  	float: left;
  	margin-left: 20px;
- 	background-color: #B23700
+ 	background-color: #B23700;
  }
   
+
