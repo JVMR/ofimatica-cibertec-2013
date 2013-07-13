@@ -13,6 +13,15 @@
  	margin-left: 10px; 
  	margin-bottom: 10px;
  }
+  #fotomayor{
+ 	width: 700px;
+ 	height: 450px;
+ 	/*background-color: #008000;*/
+ 	float: left;
+ 	margin-left: 120px;
+ 	margin-bottom: 10px;
+ }
+ 
 
  #descrip{
  	width: 620px;
@@ -49,7 +58,7 @@
  	height: 200px;
  	float: left;
  	margin-left: 20px;
- 	background-color: #B23700
+ /*	background-color: #B23700*/
  }
   
 
