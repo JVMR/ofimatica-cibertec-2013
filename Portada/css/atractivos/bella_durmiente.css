@@ -3,63 +3,29 @@
 /*ESTILO TIPO ID*/
 #contenedor {
 	width: 960px;
-	height: 1450px;
+	height: 1180px;
 	background-color: #D8D8D8;
 	margin: 0 auto;
 	position: relative;
 }
  
- #titulo{
- 	width: 300px;
- 	height: 50px;
- 	/*background-color: #00B29E;*/
- 	float:left;
- 	margin-left: 10px; 
- 	margin-bottom: 10px;
- }
- 
- #fotomayor{
- 	width: 700px;
- 	height: 450px;
- 	/*background-color: #008000;*/
- 	float: left;
- 	margin-left: 120px;
- 	margin-bottom: 10px;
- }
- 
  #descrip{
- 	width: 620px;
- 	height: 200px;
+ 	width: 540px;
+ 	height: auto px;
  	/*background-color: #00B29E;*/
  	float: left;
  	margin-left: 10px;
  	margin-bottom: 10px;
  }
  
- #peque{
- 	width: 300px;
- 	height: 200px;
- 	/*background-color: #0062F4;*/
+ #block1{
+ 	width: 380px;
+ 	height: auto px;
  	float: left;
  	margin-left: 20px;
- 	margin-bottom: 10px;
- 	 }
- #block1{
- 	width: 460px;
- 	height: 280px;
- 	float: left;
- 	margin-left: 10px;
- /*	background-color: #4A6B98;*/
+    /*background-color: #4A6B98;*/
  }
  
-  #block2{
- 	width: 460px;
- 	height: 280px;
- 	float: left;
- 	margin-left: 20px;
- 	/*background-color: #B23700;*/
- }
-  
 
  
  
@@ -83,6 +49,7 @@
 .textoespacio5{
 	margin-top: 20px;
 }
+
 
 
 
